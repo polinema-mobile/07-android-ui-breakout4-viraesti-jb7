@@ -34,7 +34,7 @@ public class FomMhs implements Parcelable {
 
         @Override
         public FomMhs[] newArray(int size) {
-            return new FomMhs[0];
+            return new FomMhs[size];
         }
     };
 
